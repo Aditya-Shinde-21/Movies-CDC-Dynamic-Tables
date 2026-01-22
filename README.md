@@ -427,5 +427,5 @@ For questions or issues with this project, please refer to the troubleshooting s
 
 **🎬 Movie Booking Analytics - Enhanced CDC with Derived Fields & Simplified Dashboard**
 
-**📅 Last Updated:** September 2025  
+**📅 Last Updated:** January 2026  
 **🔧 Built with:** Snowflake Streams, Tasks, Dynamic Tables, Streamlit, Python
