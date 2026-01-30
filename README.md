@@ -21,10 +21,10 @@ This project demonstrates a comprehensive **Change Data Capture (CDC)** solution
 
 ```
 Raw Bookings → Stream → CDC Events → Enhanced Filtered Table → Analytics Dashboard
-     ↓              ↓         ↓              ↓                    ↓
+     ↓            ↓         ↓              ↓                    ↓
   INSERT/      Captures   Raw Stream    Derived Fields        Interactive
- UPDATE/       Changes    Data +        + Business Logic      Visualization
-DELETE                     Metadata     + Data Quality
+  UPDATE/      Changes    Data +        + Business Logic      Visualization
+  DELETE                  Metadata      + Data Quality
 ```
 
 ### Key Enhancements
