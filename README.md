@@ -412,17 +412,6 @@ SELECT * FROM TABLE(INFORMATION_SCHEMA.DYNAMIC_TABLE_REFRESH_HISTORY(
 - **Travel Booking SCD2**: Slowly Changing Dimensions project
 - **UPI Transactions CDC**: Real-time transaction processing
 
-## 🤝 Contributing
-
-### Development Guidelines
-- Follow SQL best practices and naming conventions
-- Add comprehensive comments to all code
-- Test changes thoroughly before deployment
-- Document any new features or modifications
-
-### Support
-For questions or issues with this project, please refer to the troubleshooting section or consult the Snowflake documentation.
-
 ---
 
 **🎬 Movie Booking Analytics - Enhanced CDC with Derived Fields & Simplified Dashboard**
